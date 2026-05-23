@@ -1,8 +1,8 @@
-# IsleMeet / 屿见
-
 <p align="center">
   <img src="Assets/logo.png" alt="IsleMeet logo" width="180">
 </p>
+
+<h1 align="center">屿见 / IsleMeet</h1>
 
 IsleMeet / 屿见 是一个 AI 陪伴类跨平台 APP，也是一个 AI-native 的陪伴系统。
 

@@ -55,3 +55,6 @@
 - 每次改动都应能直接对应到用户需求，并且能被验证。
 - 对多步骤任务，AI 先给出简短计划，再按步骤执行并在每步后验证结果。
 - 所有文件修改都必须使用 `apply_patch` 工具完成，不使用 PowerShell 直接写入文件。
+- 在回复中展示 Windows 本地路径时，普通路径使用代码格式，例如 `E:\NewAI\IsleMeet2\README.md`。
+- 在回复中提供可点击本地文件链接时，Markdown 链接目标必须使用正斜杠路径，例如 `[README.md](E:/NewAI/IsleMeet2/README.md)`，不要把 `E:\...` 反斜杠路径直接放进 Markdown 链接目标。
+- 路径包含空格时，可点击 Markdown 链接目标必须使用尖括号包裹，并使用正斜杠路径。
