@@ -1,5 +1,9 @@
 # IsleMeet / 屿见
 
+<p align="center">
+  <img src="Assets/logo.png" alt="IsleMeet logo" width="180">
+</p>
+
 IsleMeet / 屿见 是一个 AI 陪伴类跨平台 APP，也是一个 AI-native 的陪伴系统。
 
 项目采用递归式系统思路来组织体验：用户打开的是一个应用界面，实际承载的是一个可以持续扩展、持续陪伴、持续演进的 AI 系统。
